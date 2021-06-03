@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation, for regulating the army's payment of their quarters At Edinburgh, the seventeenth day of September, one thousand six hundred eighty nine years.</title>
+            <title>Proclamations. 1689-09-17</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92698</idno><idno type="EEBO-CITATION">99899393</idno>
+  <idno type="VID">153329</idno>
+  <idno type="EEBO-PROQUEST">2240849452</idno>
+  
+            <idno type="STC">Wing S1900</idno>
+            <idno type="STC">ESTC R230003</idno>
+            <idno type="PROQUEST">99899393</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99899393e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92698)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153329)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2359:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation, for regulating the army's payment of their quarters At Edinburgh, the seventeenth day of September, one thousand six hundred eighty nine years.</title>
+                  <title>Proclamations. 1689-09-17</title>
+                  <author>Scotland. Privy Council.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed by the heir of Andrew Anderson, by order of secret council,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Anno Dom. 1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Steele notation: Forces and E-.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Scotland. --  Army --  Regulations --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  History --  1689-1745 --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  Scotland</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:153329:1"/>
+            <head>A PROCLAMATION, <hi>For Regulating the Army's Payment of their Quarters.</hi>
+            </head>
+            <opener>
+               <dateline>
+                  <hi>At</hi> Edinburgh, <date>
+                     <hi>the Seventeenth day of</hi> September, <hi>One thousand six hundred eighty nine years.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE Lords of His Majesties Privy Council, Taking to their Consideration, that when Their Majesties Forces shal be Disposed of in their Winter-Quarters, or in their Transient-Quarters, while they pass through the Countrey, they may commit Abuses on the Countrey People, by exacting Free-Quarters, or at least not sa<g ref="char:EOLhyphen"/>tisfying their Land-lords for the same, and that others may Destroy and carry away their Cornes and Hay, with<g ref="char:EOLhyphen"/>out giving any satisfaction therefore; And they being most desirous, that Provisions be made for the saids Forces, and the Furnishers thereof sufficiently satisfied and payed, and that the Parties so Injured may be Redressed of the prejudice they shall Sustain by any of His Majesties Forces; and that such Abuses may be fully prevented, Do therefore conform to the 3d <hi>Act</hi> of the 3d <hi>Parl.</hi> of K. <hi>Ch.</hi> 2d. In Their Majesties Name and Authority, Strictly Prohibit and Discharge all Free-Quartering of the Souldiers, either Transient or Local, upon any of Their Majesties Subjects; and in case any Officers or Souldiers, shall exact any Free-Quarters, or any such Locality hereafter, the Damnage being instructed before two Commis<g ref="char:EOLhyphen"/>sioners of Assessment, upon production of a Certificat thereof under their hands, the Officer being Required by way of In<g ref="char:EOLhyphen"/>strument, to give Redress to the Party, and not doing the same, shall loss a Months Pay, which they ordain to be given to the Party injured, by the Collector of the Cess or Excise in the Shire, by and attour the said Damnage, which they Declare, shall be allowed to him by the General Receivers; And in case any of the Officers or Souldiers upon the <hi>Scots</hi> Establishment, shall remove from their Quarters, Local or Transient, without paying the same, or at least Clearing and Fitting Accompts with their Land-lords, under their Hands; The Lords of His Majesties Privy Council allow their saids Land-lords to repair to two of the saids Commissioners, and before them verifie their Accompts upon their Oath, and Sign the same with the saids Commissioners, that payment may be made to the saids Land-lords, conform to the saids Accompts by the General Receiv<g ref="char:EOLhyphen"/>ers and their Collectors, off the first end of the Pay that shall be due to the saids Officers and Souldiers, who shall Remove with<g ref="char:EOLhyphen"/>out Paying or Clearing their saids Quarters. And because the Forces upon the <hi>English</hi> Establishment, cannot fall under the manner of payment, specified in the said <hi>Act:</hi> Therefore the saids Lords of Privy Council, Do hereby Ordain and Appoint, that before any of the saids Forces Remove from their Quarters, Local or Transient, that they shall clear with their Land-lords, either by present Payment, or by Stated and Fitted Accompts, under the Hands of their Officers, wherein if they fail, The saids Lords Declare, that it shall be leisum and lawful to any Persons who had Souldiers Quartered upon them, or Furnished them any Provisions, to Repair to any two o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the present Comm<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>oners o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> A<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ment, and to verifie the Accompts resting to them by any of the said Forces, upon their own Oaths, to the effect that the saids Accompts being Signed by them, and two of the saids Commissioners, the same may be reported to the saids Lords of His Majesties Privy Council, who Declare they will Order present payment to be made to the saids Parties, conform to their saids Fitted, Sworn and Subscribed Accompts, and that out of His Majesties Revenue, and will represent the same to his Majesty, that Warrant may be granted for stopping and resoun<g ref="char:EOLhyphen"/>ding to His Majesties Thesaury and Exchequer, proportionally of their Pay from <hi>England,</hi> effeirand to the <hi>Quota</hi> that shall be found due to the saids persons, and payed to them in manner foresaid; And for the Damnages their Land-lords and others may happen to sustain by the neglect of the saids Officers and Souldiers, or their delay of timous Satisfaction, and for preventing the great and many inconvenencies that the Countrey do sustain from the Officers and Souldiers, by their Pillaging and taking away of Corns, without any Appretiation thereof, or satisfaction given for the same; They Do, in Their Majesties Name and Au<g ref="char:EOLhyphen"/>thority foresaid, Require and Command the present Commissioners of Assessment, whereof five to be a <hi>Quorum,</hi> within all the Shires on this side the River of <hi>Tay,</hi> betwixt and the third day of <hi>October</hi> next; And all the Commissioners on the other side thereof, betwixt and the eleventh Day of the said Month, to meet and appoint the prices of Corns, Straw and Hay, and to take and lay down such effectual methods, for providing a Magazine of the saids Provisions, for the space of eight dayes at the several Burghs of their Shires, as they shall be advertised, for the number of Forces to be Quartered upon them, and so from time to time, during the continuation of their Quarters at that place: And the saids Lords Require and Command, the saids Commissioners to Order and Appoint the Collectors of Cess within the saids respective Shires, to make preparation for, and furnish the saids Magazines, in manner, and for the time above-mentioned, which shall be allowed to them <hi>respective,</hi> out of the Cess due, and payable by the saids Shires, how far they shall not be payed by the saids Officers and Troopers. And they Do hereby Strictly Discharge and Prohibite, all Officers and Souldiers from going out to Forrage from the place of their assign<g ref="char:EOLhyphen"/>ed Quarters, under all highest Penalty. And Ordains these Presents to be Printed, and Published at the Mercat-Cross of <hi>E<g ref="char:EOLhyphen"/>dinburgh,</hi> and other places needful, that none may pretend ignorance.</p>
+            <closer>
+               <signed>
+                  <hi>Per Actum Dominorum Secreti Concilii.</hi> GILB. ELIOT, <hi>Cls. Sti. Concilii.</hi>
+               </signed>
+            </closer>
+            <closer>God save King William and Queen Mary.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heir of <hi>Andrew Anderson,</hi> by Order of Secret Council, <hi>Ann<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Dom.</hi> 1689.</p>
+            <pb facs="tcp:153329:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
